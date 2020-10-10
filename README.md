@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![sourcewang's github stats](https://github-readme-stats.vercel.app/api?username=sourcewang)](https://github.com/sourcewang)
+[![sourcewang's github stats](https://github-readme-stats.vercel.app/api?username=sourcewang&show_icons=true&theme=tokyonight)](https://github.com/sourcewang)
